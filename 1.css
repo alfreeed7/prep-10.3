@@ -1,0 +1,36 @@
+body
+{background-image: url(back.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #702323;
+}
+
+h1
+{
+    text-align: center;
+    color: black;
+}
+p
+{
+    width:70%;
+    margin-left: 15%;
+    background-color:#ffffffd4;
+}
+
+figure{
+    width:55%;
+    margin-left: 15%;
+}
+
+figurcaption
+{text-align: left;
+color:#350303;}
+
+.a
+{float: left;
+padding-right: 33px;}
+
+i
+{
+    font-size: 25px;
+}
